@@ -29,6 +29,8 @@ namespace Projeto_17
             Console.WriteLine();
 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Everybody");
+            Console.WriteLine("Hello Friends");
         }
     }
 }
