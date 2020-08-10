@@ -1,0 +1,13 @@
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.csprojAssemblyReference.cache
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.exe
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.deps.json
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.runtimeconfig.json
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.runtimeconfig.dev.json
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.dll
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\bin\Debug\netcoreapp3.1\Projeto_17.pdb
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.dll
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.pdb
+C:\Users\augus\OneDrive\Área de Trabalho\C#_POO\Workspace_vs\Projeto_17\Projeto_17\obj\Debug\netcoreapp3.1\Projeto_17.genruntimeconfig.cache
